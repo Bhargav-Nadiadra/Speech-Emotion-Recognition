@@ -26,15 +26,3 @@ We will use CREMA dataset that is available at the following **[link](https://ww
 
 - 2D Model(melspectrogram):  F1: 0.51     |   Recall 0.30  |   Precision:   0.28
 
-### Confusion matrix
-  ![This is an image](https://github.com/MohammedAimanHESSin/Speech-Emotion-Recognition/blob/main/results-pics/1d.PNG) 
-  ![This is an image](https://github.com/MohammedAimanHESSin/Speech-Emotion-Recognition/blob/main/results-pics/2d.PNG) 
-
-## Authors
-- **[Moahmmed Aiman](https://github.com/MohammedAimanHESSin)**
-- **[Osama Sherif](https://github.com/kevinwairi)**
-- **[Abdulrahman Habib](https://github.com/habiib1999)**
-- **[Ahmed Ashraf](https://github.com/ashraf336)**
-
----
-_This README made with ❤️ by [Moahmmed Aiman](https://github.com/MohammedAimanHESSin)_
